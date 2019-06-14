@@ -1,3 +1,3 @@
 <?php
-  echo 'hello world! (Pela milionésima vez!)';  
+  echo 'hello world! Olá Mundo! (Pela milionésima vez!)';  
 ?>
